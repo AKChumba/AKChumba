@@ -48,16 +48,16 @@ Motto:
 
 # ⚔️ Security Focus
 
-- 🔴 Web Application Penetration Testing
-- 🔴 Red Team Operations
-- 🔴 Cloud Security (Azure & AWS)
-- 🔴 AI Security
-- 🔴 Malware Analysis
-- 🔴 Threat Hunting
-- 🔴 Active Directory
-- 🔴 Digital Forensics
-- 🔴 Secure Infrastructure
-- 🔴 Capture The Flag (CTF)
+- Web Application Penetration Testing
+- Red Team Operations
+- Cloud Security (Azure & AWS)
+- AI Security
+- Malware Analysis
+- Threat Hunting
+- Active Directory
+- Digital Forensics
+- Secure Infrastructure
+- Capture The Flag (CTF)
 
 ---
 
