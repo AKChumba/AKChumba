@@ -63,11 +63,11 @@ Securing systems, building AI-powered solutions, and contributing to open source
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=shadowalvan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AKChumba&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shadowalvan&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AKChumba&theme=github-dark-blue&hide_border=true)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=shadowalvan&theme=github_dark&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AKChumba&theme=github_dark&hide_border=true&layout=compact)
 
 </div>
 
@@ -75,9 +75,9 @@ Securing systems, building AI-powered solutions, and contributing to open source
 
 ## Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shadowalvan&theme=github-compact)](https://github.com/shadowalvan)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AKChumba&theme=github-compact)](https://github.com/AKChumba)
 
-![Snake animation](https://raw.githubusercontent.com/shadowalvan/shadowalvan/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/AKChumba/AKChumba/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -85,6 +85,6 @@ Securing systems, building AI-powered solutions, and contributing to open source
 
 > *"Security is a continuous process, not a destination."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=shadowalvan&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AKChumba&style=for-the-badge)
 
 </div>
